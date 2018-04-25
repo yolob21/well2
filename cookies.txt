@@ -1,0 +1,9 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "http://zeus.robots.ox.ac.uk/vgg_face2/"
+#   2) curl --cookie cookies.txt "http://zeus.robots.ox.ac.uk/vgg_face2/"
+#   3) aria2c --load-cookies cookies.txt "http://zeus.robots.ox.ac.uk/vgg_face2/"
+#
+zeus.robots.ox.ac.uk	FALSE	/	FALSE	1525789072	sessionid	ha8id9tgf70xlwov90ri2w3eia2bd262
+zeus.robots.ox.ac.uk	FALSE	/	FALSE	1556029072	csrftoken	9uFwMChc5q8wFHaT1IwKtKVnzhFTieDC113rkro9EXXnJ1unpBNc3biN5KuXDjT0
